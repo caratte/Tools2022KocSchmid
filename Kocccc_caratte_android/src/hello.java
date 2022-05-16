@@ -5,12 +5,15 @@ public class hello {
 		// TODO Auto-generated method stub
 
 	
-	int x = 1;
-	int y = 17;
+	int x = 69;
+	int y = 420;
+	int z = x * y;	// added new variable
 
 	}
-	public void thisIsANewMethod() {	
-		String Gruss = "Hello";
+	public void thisIsANewMethod() {
+		// Star Wars reference
+		String Grussy = "Hello there ...";
+		String General = "Kenobi";
 		int x = 13;
 		x = 19;
 	}
