@@ -9,7 +9,7 @@ public class hello {
 
 	}
 	public void thisIsANewMethod() {	
-		String Gruß = "Hello";
+		String Gruss = "Hello";
 		int x = 13;
 		
 	}
