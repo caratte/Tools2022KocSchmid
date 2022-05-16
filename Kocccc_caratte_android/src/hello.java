@@ -8,8 +8,9 @@ public class hello {
 	int x = 1;
 
 	}
-	public void thisIsANewMethod() {
-	
-	String Gruß = "Hello";
+	public void thisIsANewMethod() {	
+		String Gruß = "Hello";
+		int x = 13;
+		
 	}
 }
