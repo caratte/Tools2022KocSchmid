@@ -5,5 +5,5 @@ public class hello {
 		// TODO Auto-generated method stub
 
 	}
-
+	public void thisIsANewMethod() { }
 }
