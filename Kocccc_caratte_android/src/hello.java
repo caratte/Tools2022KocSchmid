@@ -6,11 +6,12 @@ public class hello {
 
 	
 	int x = 1;
+	int y = 17;
 
 	}
 	public void thisIsANewMethod() {	
 		String Gruß = "Hello";
 		int x = 13;
-		
+		x = 19;
 	}
 }
