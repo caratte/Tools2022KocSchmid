@@ -7,6 +7,7 @@ public class hello {
 	
 	int x = 1;
 	int y = 17;
+System.out.println("da ist der Thomas");
 
 	}
 	public void thisIsANewMethod() {	
