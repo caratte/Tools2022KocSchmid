@@ -8,5 +8,8 @@ public class hello {
 	int x = 1;
 
 	}
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+	
+	String Gruß = "Hello";
+	}
 }
